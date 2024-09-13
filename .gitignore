@@ -2,3 +2,5 @@
 venv/
 
 .dockerignore/
+
+iris_model.pkl
